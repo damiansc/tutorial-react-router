@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "3bed4f04db0542128a40",
-    "url": "/tutorial-react-router/static/css/main.cca1bd6a.chunk.css"
+    "revision": "44ec666574463018fcef",
+    "url": "/tutorial-react-router/static/css/main.71062178.chunk.css"
   },
   {
-    "revision": "3bed4f04db0542128a40",
+    "revision": "44ec666574463018fcef",
     "url": "/tutorial-react-router/static/js/main.a9b97ea1.chunk.js"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/tutorial-react-router/static/media/header3.d9d36b65.jpg"
   },
   {
-    "revision": "a9021d695fe16ddbc37b9be6d80af41e",
+    "revision": "aa049e85447c9b78372c412da3f329f2",
     "url": "/tutorial-react-router/index.html"
   }
 ];
